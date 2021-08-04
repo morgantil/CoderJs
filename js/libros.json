@@ -1,0 +1,72 @@
+  [{
+          "id": 1,
+          "titulo": "APRENDER HTML",
+          "imagen": "./imagenes/html.png",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 150
+      },
+      {
+          "id": 2,
+          "titulo": "APRENDER CSS",
+          "imagen": "./imagenes/css.png",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 170
+      },
+      {
+          "id": 3,
+          "titulo": "APRENDER JS",
+          "imagen": "./imagenes/javascript.png",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 180
+      },
+      {
+          "id": 4,
+          "titulo": "APRENDER NODE.JS",
+          "imagen": "./imagenes/node.png",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 190
+      },
+      {
+          "id": 6,
+          "titulo": "APRENDER REACT JS",
+          "imagen": "./imagenes/react.png",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 200
+      },
+
+      {
+          "id": 7,
+          "titulo": "APRENDER ANGULAR",
+          "imagen": "./imagenes/angular.png",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 210
+      },
+      {
+          "id": 8,
+          "titulo": "APRENDER VUE",
+          "imagen": "./imagenes/vue.jpg",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 220
+      },
+      {
+          "id": 9,
+          "titulo": "APRENDER EXPRESS",
+          "imagen": "./imagenes/express.png",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 230
+      },
+      {
+          "id": 10,
+          "titulo": "APRENDE MONGO",
+          "imagen": "./imagenes/mongo.jpg",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 240
+      },
+      {
+          "id": 11,
+          "titulo": "APRENDER FIREBASE",
+          "imagen": "./imagenes/firebase.png",
+          "descripcion": "LIBRO DIGITAL",
+          "precio": 250
+      }
+  ]

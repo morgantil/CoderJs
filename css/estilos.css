@@ -1,0 +1,24 @@
+#tamimg {
+    width: 350px;
+    height: 350px;
+    margin: 0.25em;
+}
+
+.inputCantidad {
+    width: 55px;
+    margin: 0.25em;
+}
+
+.btn-dark {
+    display: block;
+    margin: 0.25em;
+}
+
+.carrito {
+    float: center;
+    color: #f6fafb;
+}
+
+button {
+    display: inline;
+}
